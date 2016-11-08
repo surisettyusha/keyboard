@@ -1,0 +1,3 @@
+/home/robot/Airfindws/AFKeyboard/app/.externalNativeBuild/cmake/release/mips/CMakeFiles/rebuild_cache.dir
+/home/robot/Airfindws/AFKeyboard/app/.externalNativeBuild/cmake/release/mips/CMakeFiles/edit_cache.dir
+/home/robot/Airfindws/AFKeyboard/app/.externalNativeBuild/cmake/release/mips/CMakeFiles/jni_latinime.dir

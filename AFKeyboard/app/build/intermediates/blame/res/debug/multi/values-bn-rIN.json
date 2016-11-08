@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/home/robot/Airfindws/AFKeyboard/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bn-rIN/values-bn-rIN.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 42,
+                    "endOffset": 93
+                },
+                "from": {
+                    "file": "/home/robot/Airfindws/AFKeyboard/app/src/main/res/values-bn-rIN/bools.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 811,
+                        "endColumn": 42,
+                        "endOffset": 849
+                    }
+                }
+            }
+        ]
+    }
+]

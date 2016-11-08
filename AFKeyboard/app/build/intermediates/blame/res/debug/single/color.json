@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/robot/Airfindws/AFKeyboard/app/build/intermediates/res/merged/debug/color/setup_step_action_background.xml",
+        "source": "/home/robot/Airfindws/AFKeyboard/app/src/main/res/color/setup_step_action_background.xml"
+    },
+    {
+        "merged": "/home/robot/Airfindws/AFKeyboard/app/build/intermediates/res/merged/debug/color/setup_step_action_color.xml",
+        "source": "/home/robot/Airfindws/AFKeyboard/app/src/main/res/color/setup_step_action_color.xml"
+    }
+]

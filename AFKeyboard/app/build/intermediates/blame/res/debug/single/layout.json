@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "/home/robot/Airfindws/AFKeyboard/app/build/intermediates/res/merged/debug/layout/suggestions_strip.xml",
+        "source": "/home/robot/Airfindws/AFKeyboard/app/src/main/res/layout/suggestions_strip.xml"
+    },
+    {
+        "merged": "/home/robot/Airfindws/AFKeyboard/app/build/intermediates/res/merged/debug/layout/input_view.xml",
+        "source": "/home/robot/Airfindws/AFKeyboard/app/src/main/res/layout/input_view.xml"
+    },
+    {
+        "merged": "/home/robot/Airfindws/AFKeyboard/app/build/intermediates/res/merged/debug/layout/setup_step.xml",
+        "source": "/home/robot/Airfindws/AFKeyboard/app/src/main/res/layout/setup_step.xml"
+    },
+    {
+        "merged": "/home/robot/Airfindws/AFKeyboard/app/build/intermediates/res/merged/debug/layout/user_dictionary_add_word.xml",
+        "source": "/home/robot/Airfindws/AFKeyboard/app/src/main/res/layout/user_dictionary_add_word.xml"
+    },
+    {
+        "merged": "/home/robot/Airfindws/AFKeyboard/app/build/intermediates/res/merged/debug/layout/radio_button_preference_widget.xml",
+        "source": "/home/robot/Airfindws/AFKeyboard/app/src/main/res/layout/radio_button_preference_widget.xml"
+    },
+    {
+        "merged": "/home/robot/Airfindws/AFKeyboard/app/build/intermediates/res/merged/debug/layout/setup_start_indicator_label.xml",
+        "source": "/home/robot/Airfindws/AFKeyboard/app/src/main/res/layout/setup_start_indicator_label.xml"
+    },
+    {
+        "merged": "/home/robot/Airfindws/AFKeyboard/app/build/intermediates/res/merged/debug/layout/additional_subtype_dialog.xml",
+        "source": "/home/robot/Airfindws/AFKeyboard/app/src/main/res/layout/additional_subtype_dialog.xml"
+    },
+    {
+        "merged": "/home/robot/Airfindws/AFKeyboard/app/build/intermediates/res/merged/debug/layout/loading_page.xml",
+        "source": "/home/robot/Airfindws/AFKeyboard/app/src/main/res/layout/loading_page.xml"
+    },
+    {
+        "merged": "/home/robot/Airfindws/AFKeyboard/app/build/intermediates/res/merged/debug/layout/setup_welcome_title.xml",
+        "source": "/home/robot/Airfindws/AFKeyboard/app/src/main/res/layout/setup_welcome_title.xml"
+    },
+    {
+        "merged": "/home/robot/Airfindws/AFKeyboard/app/build/intermediates/res/merged/debug/layout/setup_steps_screen.xml",
+        "source": "/home/robot/Airfindws/AFKeyboard/app/src/main/res/layout/setup_steps_screen.xml"
+    },
+    {
+        "merged": "/home/robot/Airfindws/AFKeyboard/app/build/intermediates/res/merged/debug/layout/dictionary_line.xml",
+        "source": "/home/robot/Airfindws/AFKeyboard/app/src/main/res/layout/dictionary_line.xml"
+    },
+    {
+        "merged": "/home/robot/Airfindws/AFKeyboard/app/build/intermediates/res/merged/debug/layout/setup_steps_cards.xml",
+        "source": "/home/robot/Airfindws/AFKeyboard/app/src/main/res/layout/setup_steps_cards.xml"
+    },
+    {
+        "merged": "/home/robot/Airfindws/AFKeyboard/app/build/intermediates/res/merged/debug/layout/emoji_keyboard_tab_icon.xml",
+        "source": "/home/robot/Airfindws/AFKeyboard/app/src/main/res/layout/emoji_keyboard_tab_icon.xml"
+    },
+    {
+        "merged": "/home/robot/Airfindws/AFKeyboard/app/build/intermediates/res/merged/debug/layout/user_dictionary_preference_list_fragment.xml",
+        "source": "/home/robot/Airfindws/AFKeyboard/app/src/main/res/layout/user_dictionary_preference_list_fragment.xml"
+    },
+    {
+        "merged": "/home/robot/Airfindws/AFKeyboard/app/build/intermediates/res/merged/debug/layout/setup_welcome_video.xml",
+        "source": "/home/robot/Airfindws/AFKeyboard/app/src/main/res/layout/setup_welcome_video.xml"
+    },
+    {
+        "merged": "/home/robot/Airfindws/AFKeyboard/app/build/intermediates/res/merged/debug/layout/user_dictionary_item.xml",
+        "source": "/home/robot/Airfindws/AFKeyboard/app/src/main/res/layout/user_dictionary_item.xml"
+    },
+    {
+        "merged": "/home/robot/Airfindws/AFKeyboard/app/build/intermediates/res/merged/debug/layout/setup_wizard.xml",
+        "source": "/home/robot/Airfindws/AFKeyboard/app/src/main/res/layout/setup_wizard.xml"
+    },
+    {
+        "merged": "/home/robot/Airfindws/AFKeyboard/app/build/intermediates/res/merged/debug/layout/more_keys_keyboard_for_action_lxx.xml",
+        "source": "/home/robot/Airfindws/AFKeyboard/app/src/main/res/layout/more_keys_keyboard_for_action_lxx.xml"
+    },
+    {
+        "merged": "/home/robot/Airfindws/AFKeyboard/app/build/intermediates/res/merged/debug/layout/main_keyboard_frame.xml",
+        "source": "/home/robot/Airfindws/AFKeyboard/app/src/main/res/layout/main_keyboard_frame.xml"
+    },
+    {
+        "merged": "/home/robot/Airfindws/AFKeyboard/app/build/intermediates/res/merged/debug/layout/download_over_metered.xml",
+        "source": "/home/robot/Airfindws/AFKeyboard/app/src/main/res/layout/download_over_metered.xml"
+    },
+    {
+        "merged": "/home/robot/Airfindws/AFKeyboard/app/build/intermediates/res/merged/debug/layout/suggestion_divider.xml",
+        "source": "/home/robot/Airfindws/AFKeyboard/app/src/main/res/layout/suggestion_divider.xml"
+    },
+    {
+        "merged": "/home/robot/Airfindws/AFKeyboard/app/build/intermediates/res/merged/debug/layout/user_dictionary_add_word_fullscreen.xml",
+        "source": "/home/robot/Airfindws/AFKeyboard/app/src/main/res/layout/user_dictionary_add_word_fullscreen.xml"
+    },
+    {
+        "merged": "/home/robot/Airfindws/AFKeyboard/app/build/intermediates/res/merged/debug/layout/setup_welcome_screen.xml",
+        "source": "/home/robot/Airfindws/AFKeyboard/app/src/main/res/layout/setup_welcome_screen.xml"
+    },
+    {
+        "merged": "/home/robot/Airfindws/AFKeyboard/app/build/intermediates/res/merged/debug/layout/emoji_keyboard_page.xml",
+        "source": "/home/robot/Airfindws/AFKeyboard/app/src/main/res/layout/emoji_keyboard_page.xml"
+    },
+    {
+        "merged": "/home/robot/Airfindws/AFKeyboard/app/build/intermediates/res/merged/debug/layout/setup_steps_title.xml",
+        "source": "/home/robot/Airfindws/AFKeyboard/app/src/main/res/layout/setup_steps_title.xml"
+    },
+    {
+        "merged": "/home/robot/Airfindws/AFKeyboard/app/build/intermediates/res/merged/debug/layout/more_suggestions.xml",
+        "source": "/home/robot/Airfindws/AFKeyboard/app/src/main/res/layout/more_suggestions.xml"
+    },
+    {
+        "merged": "/home/robot/Airfindws/AFKeyboard/app/build/intermediates/res/merged/debug/layout/seek_bar_dialog.xml",
+        "source": "/home/robot/Airfindws/AFKeyboard/app/src/main/res/layout/seek_bar_dialog.xml"
+    },
+    {
+        "merged": "/home/robot/Airfindws/AFKeyboard/app/build/intermediates/res/merged/debug/layout/emoji_palettes_view.xml",
+        "source": "/home/robot/Airfindws/AFKeyboard/app/src/main/res/layout/emoji_palettes_view.xml"
+    },
+    {
+        "merged": "/home/robot/Airfindws/AFKeyboard/app/build/intermediates/res/merged/debug/layout/more_keys_keyboard.xml",
+        "source": "/home/robot/Airfindws/AFKeyboard/app/src/main/res/layout/more_keys_keyboard.xml"
+    }
+]

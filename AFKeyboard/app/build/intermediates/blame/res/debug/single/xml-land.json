@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/robot/Airfindws/AFKeyboard/app/build/intermediates/res/merged/debug/xml-land/kbd_phone.xml",
+        "source": "/home/robot/Airfindws/AFKeyboard/app/src/main/res/xml-land/kbd_phone.xml"
+    },
+    {
+        "merged": "/home/robot/Airfindws/AFKeyboard/app/build/intermediates/res/merged/debug/xml-land/kbd_number.xml",
+        "source": "/home/robot/Airfindws/AFKeyboard/app/src/main/res/xml-land/kbd_number.xml"
+    },
+    {
+        "merged": "/home/robot/Airfindws/AFKeyboard/app/build/intermediates/res/merged/debug/xml-land/kbd_phone_symbols.xml",
+        "source": "/home/robot/Airfindws/AFKeyboard/app/src/main/res/xml-land/kbd_phone_symbols.xml"
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "/home/robot/Airfindws/AFKeyboard/app/build/intermediates/res/merged/debug/xml-v16/keystyle_devanagari_vowel_sign_candra_o.xml",
+        "source": "/home/robot/Airfindws/AFKeyboard/app/src/main/res/xml-v16/keystyle_devanagari_vowel_sign_candra_o.xml"
+    },
+    {
+        "merged": "/home/robot/Airfindws/AFKeyboard/app/build/intermediates/res/merged/debug/xml-v16/keystyle_devanagari_sign_virama.xml",
+        "source": "/home/robot/Airfindws/AFKeyboard/app/src/main/res/xml-v16/keystyle_devanagari_sign_virama.xml"
+    },
+    {
+        "merged": "/home/robot/Airfindws/AFKeyboard/app/build/intermediates/res/merged/debug/xml-v16/keystyle_devanagari_vowel_sign_au.xml",
+        "source": "/home/robot/Airfindws/AFKeyboard/app/src/main/res/xml-v16/keystyle_devanagari_vowel_sign_au.xml"
+    },
+    {
+        "merged": "/home/robot/Airfindws/AFKeyboard/app/build/intermediates/res/merged/debug/xml-v16/keystyle_devanagari_vowel_sign_candra_e.xml",
+        "source": "/home/robot/Airfindws/AFKeyboard/app/src/main/res/xml-v16/keystyle_devanagari_vowel_sign_candra_e.xml"
+    },
+    {
+        "merged": "/home/robot/Airfindws/AFKeyboard/app/build/intermediates/res/merged/debug/xml-v16/keystyle_devanagari_vowel_sign_ii.xml",
+        "source": "/home/robot/Airfindws/AFKeyboard/app/src/main/res/xml-v16/keystyle_devanagari_vowel_sign_ii.xml"
+    },
+    {
+        "merged": "/home/robot/Airfindws/AFKeyboard/app/build/intermediates/res/merged/debug/xml-v16/keystyle_devanagari_vowel_sign_vocalic_r.xml",
+        "source": "/home/robot/Airfindws/AFKeyboard/app/src/main/res/xml-v16/keystyle_devanagari_vowel_sign_vocalic_r.xml"
+    },
+    {
+        "merged": "/home/robot/Airfindws/AFKeyboard/app/build/intermediates/res/merged/debug/xml-v16/keystyle_devanagari_sign_anusvara.xml",
+        "source": "/home/robot/Airfindws/AFKeyboard/app/src/main/res/xml-v16/keystyle_devanagari_sign_anusvara.xml"
+    },
+    {
+        "merged": "/home/robot/Airfindws/AFKeyboard/app/build/intermediates/res/merged/debug/xml-v16/keystyle_devanagari_sign_candrabindu.xml",
+        "source": "/home/robot/Airfindws/AFKeyboard/app/src/main/res/xml-v16/keystyle_devanagari_sign_candrabindu.xml"
+    },
+    {
+        "merged": "/home/robot/Airfindws/AFKeyboard/app/build/intermediates/res/merged/debug/xml-v16/keystyle_devanagari_vowel_sign_u.xml",
+        "source": "/home/robot/Airfindws/AFKeyboard/app/src/main/res/xml-v16/keystyle_devanagari_vowel_sign_u.xml"
+    },
+    {
+        "merged": "/home/robot/Airfindws/AFKeyboard/app/build/intermediates/res/merged/debug/xml-v16/keystyle_devanagari_sign_visarga.xml",
+        "source": "/home/robot/Airfindws/AFKeyboard/app/src/main/res/xml-v16/keystyle_devanagari_sign_visarga.xml"
+    },
+    {
+        "merged": "/home/robot/Airfindws/AFKeyboard/app/build/intermediates/res/merged/debug/xml-v16/keystyle_devanagari_vowel_sign_e.xml",
+        "source": "/home/robot/Airfindws/AFKeyboard/app/src/main/res/xml-v16/keystyle_devanagari_vowel_sign_e.xml"
+    },
+    {
+        "merged": "/home/robot/Airfindws/AFKeyboard/app/build/intermediates/res/merged/debug/xml-v16/keystyle_devanagari_vowel_sign_o.xml",
+        "source": "/home/robot/Airfindws/AFKeyboard/app/src/main/res/xml-v16/keystyle_devanagari_vowel_sign_o.xml"
+    },
+    {
+        "merged": "/home/robot/Airfindws/AFKeyboard/app/build/intermediates/res/merged/debug/xml-v16/keystyle_devanagari_vowel_sign_ai.xml",
+        "source": "/home/robot/Airfindws/AFKeyboard/app/src/main/res/xml-v16/keystyle_devanagari_vowel_sign_ai.xml"
+    },
+    {
+        "merged": "/home/robot/Airfindws/AFKeyboard/app/build/intermediates/res/merged/debug/xml-v16/keystyle_devanagari_vowel_sign_i.xml",
+        "source": "/home/robot/Airfindws/AFKeyboard/app/src/main/res/xml-v16/keystyle_devanagari_vowel_sign_i.xml"
+    },
+    {
+        "merged": "/home/robot/Airfindws/AFKeyboard/app/build/intermediates/res/merged/debug/xml-v16/keystyle_devanagari_vowel_sign_uu.xml",
+        "source": "/home/robot/Airfindws/AFKeyboard/app/src/main/res/xml-v16/keystyle_devanagari_vowel_sign_uu.xml"
+    },
+    {
+        "merged": "/home/robot/Airfindws/AFKeyboard/app/build/intermediates/res/merged/debug/xml-v16/keystyle_devanagari_sign_nukta.xml",
+        "source": "/home/robot/Airfindws/AFKeyboard/app/src/main/res/xml-v16/keystyle_devanagari_sign_nukta.xml"
+    },
+    {
+        "merged": "/home/robot/Airfindws/AFKeyboard/app/build/intermediates/res/merged/debug/xml-v16/keystyle_devanagari_vowel_sign_aa.xml",
+        "source": "/home/robot/Airfindws/AFKeyboard/app/src/main/res/xml-v16/keystyle_devanagari_vowel_sign_aa.xml"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/home/robot/Airfindws/AFKeyboard/app/build/intermediates/res/merged/debug/raw/setup_welcome_video.mp4",
+        "source": "/home/robot/Airfindws/AFKeyboard/app/src/main/res/raw/setup_welcome_video.mp4"
+    },
+    {
+        "merged": "/home/robot/Airfindws/AFKeyboard/app/build/intermediates/res/merged/debug/raw/main_pt_br.dict",
+        "source": "/home/robot/Airfindws/AFKeyboard/app/src/main/res/raw/main_pt_br.dict"
+    },
+    {
+        "merged": "/home/robot/Airfindws/AFKeyboard/app/build/intermediates/res/merged/debug/raw/main_es.dict",
+        "source": "/home/robot/Airfindws/AFKeyboard/app/src/main/res/raw/main_es.dict"
+    },
+    {
+        "merged": "/home/robot/Airfindws/AFKeyboard/app/build/intermediates/res/merged/debug/raw/main_ru.dict",
+        "source": "/home/robot/Airfindws/AFKeyboard/app/src/main/res/raw/main_ru.dict"
+    },
+    {
+        "merged": "/home/robot/Airfindws/AFKeyboard/app/build/intermediates/res/merged/debug/raw/main.dict",
+        "source": "/home/robot/Airfindws/AFKeyboard/app/src/main/res/raw/main.dict"
+    },
+    {
+        "merged": "/home/robot/Airfindws/AFKeyboard/app/build/intermediates/res/merged/debug/raw/main_de.dict",
+        "source": "/home/robot/Airfindws/AFKeyboard/app/src/main/res/raw/main_de.dict"
+    },
+    {
+        "merged": "/home/robot/Airfindws/AFKeyboard/app/build/intermediates/res/merged/debug/raw/main_en.dict",
+        "source": "/home/robot/Airfindws/AFKeyboard/app/src/main/res/raw/main_en.dict"
+    },
+    {
+        "merged": "/home/robot/Airfindws/AFKeyboard/app/build/intermediates/res/merged/debug/raw/setup_welcome_image.png",
+        "source": "/home/robot/Airfindws/AFKeyboard/app/src/main/res/raw/setup_welcome_image.png"
+    },
+    {
+        "merged": "/home/robot/Airfindws/AFKeyboard/app/build/intermediates/res/merged/debug/raw/main_fr.dict",
+        "source": "/home/robot/Airfindws/AFKeyboard/app/src/main/res/raw/main_fr.dict"
+    },
+    {
+        "merged": "/home/robot/Airfindws/AFKeyboard/app/build/intermediates/res/merged/debug/raw/empty.dict",
+        "source": "/home/robot/Airfindws/AFKeyboard/app/src/main/res/raw/empty.dict"
+    },
+    {
+        "merged": "/home/robot/Airfindws/AFKeyboard/app/build/intermediates/res/merged/debug/raw/main_it.dict",
+        "source": "/home/robot/Airfindws/AFKeyboard/app/src/main/res/raw/main_it.dict"
+    }
+]

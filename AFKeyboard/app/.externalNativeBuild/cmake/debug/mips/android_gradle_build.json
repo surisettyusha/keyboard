@@ -1,0 +1,38 @@
+
+{
+	"buildFiles" : [ "/home/robot/Airfindws/AFKeyboard/app/CMakeLists.txt" ],
+	"cleanCommands" : 
+	[
+		"/home/robot/Android/Sdk/cmake/3.6.3155560/bin/cmake --build /home/robot/Airfindws/AFKeyboard/app/.externalNativeBuild/cmake/debug/mips --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"jni_latinime-Debug-mips" : 
+		{
+			"abi" : "mips",
+			"artifactName" : "jni_latinime",
+			"buildCommand" : "/home/robot/Android/Sdk/cmake/3.6.3155560/bin/cmake --build /home/robot/Airfindws/AFKeyboard/app/.externalNativeBuild/cmake/debug/mips --target jni_latinime",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  -target mipsel-none-linux-android -gcc-toolchain /home/robot/Android/Sdk/ndk-bundle/toolchains/mipsel-linux-android-4.9/prebuilt/linux-x86_64 --sysroot=/home/robot/Android/Sdk/ndk-bundle/platforms/android-14/arch-mips  -Djni_latinime_EXPORTS -isystem /home/robot/Android/Sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /home/robot/Android/Sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/mips/include -isystem /home/robot/Android/Sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mips32 -Wa,--noexecstack -Wformat -Werror=format-security -fno-exceptions -fno-rtti -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mips32 -Wa,--noexecstack -Wformat -Werror=format-security -fno-exceptions -fno-rtti -std=c++11 -frtti -fexceptions -O0 -fno-limit-debug-info -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/home/robot/Airfindws/AFKeyboard/app/src/main/cpp/com_android_inputmethod_keyboard_ProximityInfo.cpp",
+					"workingDirectory" : "/home/robot/Airfindws/AFKeyboard/app/.externalNativeBuild/cmake/debug/mips"
+				}
+			],
+			"output" : "/home/robot/Airfindws/AFKeyboard/app/build/intermediates/cmake/debug/obj/mips/libjni_latinime.so",
+			"toolchain" : "16844559203681660072"
+		}
+	},
+	"toolchains" : 
+	{
+		"16844559203681660072" : 
+		{
+			"cCompilerExecutable" : "/home/robot/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/home/robot/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++"
+		}
+	}
+}

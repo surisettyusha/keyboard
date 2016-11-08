@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/robot/Airfindws/AFKeyboard/app/build/intermediates/res/merged/debug/layout-land/setup_steps_screen.xml",
+        "source": "/home/robot/Airfindws/AFKeyboard/app/src/main/res/layout-land/setup_steps_screen.xml"
+    },
+    {
+        "merged": "/home/robot/Airfindws/AFKeyboard/app/build/intermediates/res/merged/debug/layout-land/setup_welcome_screen.xml",
+        "source": "/home/robot/Airfindws/AFKeyboard/app/src/main/res/layout-land/setup_welcome_screen.xml"
+    }
+]
